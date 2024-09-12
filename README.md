@@ -13,19 +13,5 @@ Utilizei o "ChatGPT" para estruturar a definição, enquanto o "Leonardo" AI foi
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo sobre a definição de Deus para quem nunca ouviu falar nele.
-- [E-BOOK](/exemplos/E-BOOK.pdf)
 
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[![E-BOOK](/exemplos/E-BOOK.pdf "E-BOOK")](https://github.com/midia-lima/lab-natty-or-not/blob/main/exemplos/E-BOOK.pdf)
