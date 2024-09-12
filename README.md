@@ -14,4 +14,4 @@ Utilizei o "ChatGPT" para estruturar a definição, enquanto o "Leonardo" AI foi
 ## 🚀 Resultados
 O e-book apresenta um conteúdo sobre a definição de Deus para quem nunca ouviu falar nele.
 
-[![E-BOOK](/exemplos/E-BOOK.pdf "E-BOOK")](https://github.com/midia-lima/lab-natty-or-not/blob/main/exemplos/E-BOOK.pdf)
+**[E-BOOK](https://github.com/midia-lima/lab-natty-or-not/blob/main/exemplos/E-BOOK.pdf)**
